@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @spedersen03
-- 👀 I’m interested in expanding my understanding of data sciences.
-- 🌱 I’m currently learning Python.
-- 📫 How to reach me spedesen03@gmail.com
+Long-Haired Banker | Data Analyst | GWOT Veteran - Presenting analytics on current topics. Hoping to do something worthy of a Joe Rogan invite one day.
 
 <!---
 spedersen03/spedersen03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
